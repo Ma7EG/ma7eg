@@ -63,22 +63,16 @@
 
 
 ---
-### 📊 GitHub Stats & Activity
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omartamer630&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omartamer630&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=omartamer630&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ma7EG&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170"/> 
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ma7EG&theme=tokyonight" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7EG&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages"/>
-</p>
+</div>
 
----
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
-<!--
-QUICK INSTRUCTIONS:
-- Replace 'banner.png' and 'demo.gif' with your own (drag and drop to repo root).
-- Replace social and Kaggle links with your real accounts.
-- Choose any fun GIFs from https://gifs.anmolbaranwal.com or use your own.
-- Learn more GitHub README widgets: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
