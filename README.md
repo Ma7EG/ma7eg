@@ -10,11 +10,11 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Computer Science Student @ EELU (Cairo, Egypt), Expected Graduation: 2026
-- 💻 Backend developer (.NET), Web, Competitive Programmer
-- 🏆 300+ Codeforces problems solved
-- 📬 Contact: mody044404440@gmail.com
+###  About Me
+- Computer Science Student @ EELU (Cairo, Egypt), Expected Graduation: 2026
+- Backend developer (.NET), Web, Competitive Programmer
+- 300+ Codeforces problems solved
+- Contact: mody044404440@gmail.com
 
 ---
 <p align="center">
