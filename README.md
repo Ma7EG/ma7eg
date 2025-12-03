@@ -21,7 +21,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlzOGk0YndnemNjNnE3bXhwMXN2YTBybGVtZTM3dnFlaG41anMyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif" alt="Well" width="500"/>
 </p>
 
-### 🛠️ Tech Skills
+###  Tech Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,,dotnet,js,sql,java,bash,git,github,azure,visualstudio,vscode,linux,windows&perline=8" alt="Skills" />
@@ -29,21 +29,25 @@
 
 ---
 
-### 🌟 Projects
+###  Projects
 
 #### 🛒 Pharmacy E-Commerce Website
 > Complete e-commerce platform (auth, cart)<br>
 > <b>HTML, CSS, JavaScript, SweetAlert, LocalStorage</b>
 
-#### 🐔 Chicken Game
+####  Chicken Game
 > AI-powered 2D game (Python, Pygame, search algorithms)
 
-#### 💻 NLP - image-captioning
+####  NLP - image-captioning
 > AI projct that focus on Computer vison and NLP
 > > <b>Tensorflow , Transfrom , Python , LSTM </b>
+
+#### Telegram Bot - Webull Scraping
+> Telegram Bot that work on scraping data to track the Stock exchange share very fast and live
+>  > <b>Python , selenmium , FastAPI , Telegram lib</b>
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://www.facebook.com/ma7.ali250" target="_blank">
@@ -63,7 +67,7 @@
 
 
 ---
-# 📊 GitHub Stats:
+#  GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omartamer630&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omartamer630&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
