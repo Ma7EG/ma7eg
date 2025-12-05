@@ -38,9 +38,9 @@
 ####  Chicken Game
 > AI-powered 2D game (Python, Pygame, search algorithms)
 
-####  NLP - image-captioning
-> AI projct that focus on Computer vison and NLP
-> > <b>Tensorflow , Transfrom , Python , LSTM </b>
+####  Podcasty - Website for sharing podcast
+> Fullstack .NET website project for sharing , follow , interact with people
+> > <b>React , .NET , SQL Server, TypeScript , Html </b>
 
 #### Telegram Bot - Webull Scraping
 > Telegram Bot that work on scraping data to track the Stock exchange share very fast and live
