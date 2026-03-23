@@ -1,8 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ma7EG/Ma7EG/main/banner.jpg" alt="Mahmoud Ali | Software Developer Cover" width="100%"/>
+    <img src="https://img.shields.io/badge/Profile%20Views-000000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Ma7EG?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Ma7EG?style=for-the-badge&logo=github&label=Stars" />
 </p>
 
 <h2 align="center">Hi there, I'm Mahmoud Ali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+
 
 <p align="center">
   <i>Aspiring software developer <br/>Full-Stack Developer (.NET Core & Angular) | Competitive Programmer.</i>
