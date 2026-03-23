@@ -42,7 +42,7 @@
 
 ---
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlzOGk0YndnemNjNnE3bXhwMXN2YTBybGVtZTM3dnFlaG41anMyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif" alt="Well" width="500"/>
+  <img src="https://media1.tenor.com/m/8duT5GMYlHkAAAAC/warning-banner.gif" alt="Well" width="500"/>
 </p>
 
 ###  Tech Skills
