@@ -13,7 +13,6 @@
 ###  About Me
 - Computer Science Student @ EELU (Cairo, Egypt), Expected Graduation: 2026
 - Backend developer (.NET), Web, Competitive Programmer
-- 300+ Codeforces problems solved
 - Contact: mody044404440@gmail.com
 
 ---
@@ -31,7 +30,7 @@
 
 ###  Projects
 
-#### 🛒 Pharmacy E-Commerce Website
+####  Pharmacy E-Commerce Website
 > Complete e-commerce platform (auth, cart)<br>
 > <b>HTML, CSS, JavaScript, SweetAlert, LocalStorage</b>
 
@@ -63,15 +62,3 @@
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
-
-
-
----
-#  GitHub Stats:
-
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
--->
