@@ -42,15 +42,145 @@
 
 ---
 <p align="center">
-  <img src="https://media1.tenor.com/m/8duT5GMYlHkAAAAC/warning-banner.gif" alt="Well" width="500"/>
+  <img src="https://media1.tenor.com/m/8duT5GMYlHkAAAAC/warning-banner.gif" alt="Warning" width="500"/>
 </p>
 
-###  Tech Skills
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,,dotnet,js,sql,java,bash,git,github,azure,visualstudio,vscode,linux,windows&perline=8" alt="Skills" />
-</p>
-
+<h3 align="center">Languages, Databases, and Tools 🔧</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.lua.org" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Lua" width="40" height="40" />
+      </a>
+      <p>Lua</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+      </a>
+      <p>C</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+      </a>
+      <p>C++</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+      </a>
+      <p>C#</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+      <p>HTML</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="CSS3" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+      <p>CSS</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+      <p>JavaScript</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+      </a>
+      <p>Java</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
+      </a>
+      <p>React.js</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
+      </a>
+      <p>Angular</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+      </a>
+      <p>Firebase</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+      </a>
+      <p>MySQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+      </a>
+      <p>MongoDB</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
+      </a>
+      <p>SQLite</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MsSQL" width="40" height="40" />
+      </a>
+      <p>MsSQL</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
+      </a>
+      <p>Google Cloud</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+      </a>
+      <p>Python</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+      </a>
+      <p>Postman</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash" width="40" height="40" />
+      </a>
+      <p>Bash</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+      </a>
+      <p>Docker</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40" />
+      </a>
+      <p>Adobe Photoshop</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/1200/net-framework.jpg" alt=".NET" width="40" height="40" />
+      </a>
+      <p>.
 ---
 
 ###  Projects
