@@ -180,7 +180,16 @@
       <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/1200/net-framework.jpg" alt=".NET" width="40" height="40" />
       </a>
-      <p>.
+      <p>.NET</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40" />
+      </a>
+      <p>Microsoft Azure</p>
+    </td>
+  </tr>
+</table>
 ---
 
 ###  Projects
