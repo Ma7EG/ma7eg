@@ -207,56 +207,6 @@
 </table>
 ---
 
-### Projects
-
-#### ToroStack — Intelligent Competitive Programming Platform (Graduation Project)
-> **An intelligent, distributed ecosystem designed to revolutionize competitive programming training and algorithmic problem-solving. It pairs a high-performance automated judge system with AI-driven feedback to help developers master coding and algorithms.**
-
-*   **Distributed Judge System:** Built a secure, distributed online judge utilizing **ASP.NET Core**, **Docker**, and isolated execution environments across multiple VMs with precise resource tracking (`cgroups`).
-*   **AI-Powered Mentor:** Integrated machine learning and static code analysis to provide deep, actionable optimization feedback beyond standard sandbox verdicts.
-*   **Scalable Architecture:** Designed a decoupled, microservices-based system utilizing message queues for reliable, asynchronous submission handling.
-
-**Tech Stack:** .NET Core, C#, React, TypeScript, SQL Server, Docker, RabbitMQ, REST API, Agile (Scrum)
-
----
-
-#### Podcasty — Podcast Sharing Platform
-> **A full-stack web application designed for discovering, sharing, and interacting with audio content and creators.**
-
-*   Developed a robust backend architecture using **.NET** and **SQL Server** to handle media feeds, user interactions, and follow systems.
-*   Built a responsive, dynamic user interface with **React** and **TypeScript**.
-
-**Tech Stack:** React, .NET, SQL Server, TypeScript, Tailwind CSS
-
----
-
-#### Telegram Bot — Webull Real-Time Scraper
-> **A high-speed automated bot built to scrape live financial data and track stock exchange changes instantly.**
-
-*   Implemented live data extraction using **Selenium** and integrated it with an asynchronous **FastAPI** backend.
-*   Delivered instant, real-time stock alert updates directly to users via the **Telegram API**.
-
-**Tech Stack:** Python, Selenium, FastAPI, Telegram API
-
----
-
-#### Pharmacy E-Commerce Website
-> **A comprehensive client-side e-commerce storefront for pharmacy and medical product management.**
-
-*   Implemented complete client-side business logic including user authentication flows and persistent shopping cart states using **LocalStorage**.
-*   Designed a clean, modern user experience enhanced with interactive **SweetAlert** notifications.
-
-**Tech Stack:** HTML5, CSS3, JavaScript (ES6+), SweetAlert, LocalStorage
-
----
-
-#### Chicken Game — AI-Driven 2D Game
-> **An interactive 2D arcade game built to demonstrate and visualize core artificial intelligence search paths.**
-
-*   Developed game mechanics and rendering utilizing **Python** and **Pygame**.
-*   Integrated algorithmic pathfinding and search algorithms to drive automated agent behaviors.
-
-**Tech Stack:** Python, Pygame, AI Search Algorithms
 ###  Connect with Me
 
 <p align="center">
