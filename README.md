@@ -53,7 +53,7 @@
 ###  About Me
 - Computer Science Student @ EELU (Cairo, Egypt), Expected Graduation: 2026
 - Backend developer (.NET), Web, Competitive Programmer
-- Contact: mody044404440@gmail.com
+- Contact: mahmoudalimahmoud250@gmail.com
 
 ---
 <p align="center">
