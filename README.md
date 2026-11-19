@@ -51,7 +51,7 @@
 ---
 
 ###  About Me
-- Computer Science Student @ EELU (Cairo, Egypt), Expected Graduation: 2026
+- Bachelor of Information Technology @ EELU (Cairo, Egypt) 2026
 - Backend developer (.NET), Web, Competitive Programmer
 - Contact: mahmoudalimahmoud250@gmail.com
 
